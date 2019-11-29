@@ -16,7 +16,7 @@ This *python powered* console application can do two things.
 
 Every valid bitcoin transaction has its fee. Due to the architecture of transactions, their fees calculation isn't as trivial as it could sound like.
 
-In order to calculate fee, You have to run python file as this:
+In order to calculate fee, python file must be run like this:
 
 ``` bash
 $ python main.py calcfee [txid]
@@ -34,7 +34,7 @@ To validate block, program must be run as:
 $ python main.py validateblock [blockid]
 ```
 
-Where **validateblock** is specific command that initiates validation and **[blockid]** is spicific block's id.
+Where **validateblock** is specific command that initiates validation and **[blockid]** is target block's id.
 
 ##  **Prerequisites** 
 
