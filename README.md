@@ -39,7 +39,9 @@ Where **validateblock** is specific command that initiates validation and **[blo
 ##  **Prerequisites** 
 
 🥧 Python 3
+
 🥧 Full blockchain node
+
 🥧 Test data which can be found in [here]( https://www.blockchain.com/explorer )
 
 
