@@ -46,6 +46,8 @@ Where **validateblock** is specific command that initiates validation and **[blo
 
 
 
+## Changelog
+
 ### [v0.1](https://github.com/zygisau/Bitcoin-pie-api/releases/tag/0.1) - (2019-11-29)  
 
 **Added**  
